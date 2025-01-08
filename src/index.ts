@@ -9,6 +9,6 @@ kintone.events.on(HANDLE_EVENT, (event: KintoneEvent) => {
     aaa: "aaa",
   };
   console.log(aaa);
-
+  const bbb = "";
   return event;
 });
